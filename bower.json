@@ -1,10 +1,10 @@
 {
-  "name": "dottransfer-api-wrapper",
+  "name": "dottransfers-api-wrapper",
   "version": "0.0.1",
   "authors": [
     "Mariano <m.vicent@gmail.com>"
   ],
-  "description": "DotTransfer api wrapper",
+  "description": "DotTransfers api wrapper",
   "main": "dist/ApiDotTransfers.js",
   "keywords": [
     "api",
@@ -19,7 +19,9 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "~1.11.3",
+    "jquery": "~1.11.3"
+  },
+  "devDependencies": {
     "jasmine": "~2.3.4"
   }
 }
